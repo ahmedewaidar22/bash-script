@@ -1,0 +1,1 @@
+#!/bin/read -p "enter the table you want to delete" dtable
